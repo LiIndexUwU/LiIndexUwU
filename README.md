@@ -1,6 +1,6 @@
 # Li_Index
 ### The Newest developer github
-Owner of this account: ferderplays
+Owner of this account: BBQsource222
 <!--
 **LiIndexUwU/LiIndexUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
